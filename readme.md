@@ -1,6 +1,7 @@
 # Weather Planner 🌤🧤
 
 > Do I need a coat today?
+> 
 > Do you think i need a jumper?
 
 These are all questions that you are fed up of hearing at both home and the office. 
