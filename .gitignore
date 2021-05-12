@@ -1,2 +1,7 @@
 .env
 models
+.DS_Store
+Thumbs.db
+.aleph/
+dist/
+.vscode/
