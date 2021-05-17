@@ -1,1 +1,1 @@
-aleph dev
+deno run --allow-read --allow-write --unstable --allow-net app.js
